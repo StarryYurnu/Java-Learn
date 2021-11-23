@@ -2,6 +2,8 @@
 
 Easy to learn java.
 
+Please download 'typora' and open the MD file, otherwise there will be problems in the display.
+
 
 
 
